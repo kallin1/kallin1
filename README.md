@@ -1,16 +1,16 @@
-## Hi there 👋
+## 🛠 Tech Stack
 
-<!--
-**kallin1/kallin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend
+- Java, Spring Boot
+- REST API Development
 
-Here are some ideas to get you started:
+### Database
+- MySQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Server / Deployment
+- Docker
+- AWS EC2, AWS S3
+
+### Currently Learning
+- Node.js
+- AWS (Cloud Infrastructure)
