@@ -1,14 +1,8 @@
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=2980B9&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/your-github-username?label=Followers&style=flat&color=2980B9" alt="followers" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 백엔드(Java, Spring Boot) 기반 서비스를 개발
+- 🔭 백엔드(Java, Spring Boot) 기반 서비스 개발
 - 🤖 LangGraph, RAG, AI Agent를 활용한 AI 서비스 개발
 - ☁️ Docker와 AWS(EC2, S3)를 이용한 배포/인프라 구성
 ---
@@ -78,7 +72,7 @@
   <a href="mailto:kedia1004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-blog-or-portfolio.com">
+  <a href="https://velog.io/@kallin/posts">
     <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
 </p>
