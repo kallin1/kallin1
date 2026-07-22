@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2980B9&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI%20Developer&descAlignY=55&descSize=20" />
-</h1>
 
 <p align="center">
   <a href="https://github.com/kallin1">
