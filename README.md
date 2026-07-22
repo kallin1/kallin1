@@ -1,8 +1,3 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2980B9&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI%20Developer&descAlignY=55&descSize=20" />
-</h1>
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=2980B9&style=flat" alt="profile views" />
@@ -13,10 +8,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 백엔드(Java, Spring Boot) 기반의 서비스를 개발하고 있습니다.
-- 🤖 LangGraph, RAG, AI Agent를 활용한 서비스에 관심이 많습니다.
-- ☁️ Docker와 AWS(EC2, S3)를 이용한 배포/인프라 구성 경험이 있습니다.
-
+- 🔭 백엔드(Java, Spring Boot) 기반 서비스를 개발
+- 🤖 LangGraph, RAG, AI Agent를 활용한 AI 서비스 개발
+- ☁️ Docker와 AWS(EC2, S3)를 이용한 배포/인프라 구성
 ---
 
 ### 🛠 Tech Stack
@@ -73,8 +67,6 @@
   <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> ⚠️ 위 스네이크 애니메이션은 GitHub Action 설정이 필요합니다. 아래 "설정 방법"을 참고해서 워크플로우를 추가해주세요.
-
 ---
 
 ### 🔗 Connect with me
@@ -83,7 +75,7 @@
   <a href="https://www.linkedin.com/in/your-linkedin/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:kedia1004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-blog-or-portfolio.com">
