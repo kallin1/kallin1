@@ -1,9 +1,8 @@
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2980B9&height=200&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI%20Developer&descAlignY=55&descSize=20" />
+</h1>
 
-<p align="center">
-  <a href="https://github.com/kallin1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2980B9&center=true&vCenter=true&width=600&lines=Spring+Boot+%EA%B8%B0%EB%B0%98+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9E%85%EB%8B%88%EB%8B%A4;AI+Agent%2C+RAG%EB%A5%BC+%ED%99%9C%EC%9A%A9%ED%95%9C+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;Docker%2C+AWS%EB%A1%9C+%EB%B0%B0%ED%8F%AC%EB%A5%BC+%EC%9E%90%EB%8F%99%ED%99%94%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=2980B9&style=flat" alt="profile views" />
